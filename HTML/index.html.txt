@@ -1,0 +1,14 @@
+<!DOCTYPE html><!--Sirve para indicar que el documento es de HTML5-->
+<html><!--Con esta etiqueta damos apertura al documento HTML-->
+<head><!--Provee información general acerca del documento, incluyendo su título y enlaces a scripts y hojas de estilos.-->
+<title>Title of the document</title><!--El tag title (título) es un tag de código HTML que le permite darle un título a una página web-->
+</head><!--Provee información general (metadatos) acerca del documento, incluyendo su título y enlaces a scripts y hojas de estilos. ... De otro modo, uno o más elementos de metadatos donde exactamente uno es title-->
+
+<body><!--El elemento body es el contenedor para todos los aspectos representables de un documento. ... El elemento body es parte de la estructura básica de un documento-->
+
+
+<h1>La mejor carrera es la Programación</h1><!--Es una etiqueta que se utiliza para identificar aquellas frases que conforman el título principal de un contenido de una página web-->
+<h1 class=“carrera”>La mejor carrera es la de Análisis de Sistemas</h1><!--Utilizado, de manera habitual, para identificar la cabecera más importante en una página web-->
+
+</body><!--El elemento body es el contenedor para todos los aspectos representables de un documento. ... El elemento body es parte de la estructura básica de un documento-->
+</html><!--Con esta etiqueta damos apertura al documento HTML-->
